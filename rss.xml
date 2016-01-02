@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pigeons and Pates]]></title>
         <description><![CDATA[Pigeons and Pates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pigeons-and-pates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 16:38:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 16:45:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pigeons-and-pates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prague]]></title>
+            <description><![CDATA[<article><h1>Prague</h1><p>A brief description of my time in Prague</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ddda4a734db983d354a945d9c433cdc0657df5d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pigeons-and-pates/prague/index.html</link>
+            <guid isPermaLink="false">b44f8b0a-733a-49a4-8824-30b644ffe799</guid>
+            <pubDate>Sat, 02 Jan 2016 16:44:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My 2015 Spring Semester Abroad]]></title>
             <description><![CDATA[<article><h1>My 2015 Spring Semester Abroad</h1><p>Although I began this website as a blog, which was in turn started as a bunch of emails to family and friends, I didn't really like Weebly's blog functionality, in addition this is not an ongoing project, thus making the blog experience less-than-ideal for reading about my adventures. The name Pigeons and Pates comes from my utter lack of creativity and the fact that despite the wide variety of places I visit, I inevitably photograph pigeons and the strange faces I find. Here you will find the accounts of the various ventures I partook in while a Kansas State University Exchange Student at Czech Technical University in Prague, Czech Republic. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04d22e741bea78b66af5a202e9379efd42d2be7b.jpg"></article>]]></description>
-            <link>undefinedmy-spring-semester-abroad/index.html</link>
+            <link>https://thegrid.ai/pigeons-and-pates/my-spring-semester-abroad/index.html</link>
             <guid isPermaLink="false">de0edb5d-c173-422f-8a08-a3914496b836</guid>
             <pubDate>Sat, 02 Jan 2016 16:37:48 GMT</pubDate>
         </item>
