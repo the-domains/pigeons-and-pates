@@ -4,8 +4,15 @@
         <description><![CDATA[Pigeons and Pates]]></description>
         <link>https://thegrid.ai/pigeons-and-pates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 04:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 10:52:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pigeons-and-pates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bordeaux]]></title>
+            <description><![CDATA[<article><h1>Bordeaux</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db77ce51f5a17c19853e9dad3d6d5f97d8368fbf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pigeons-and-pates/bordeaux/index.html</link>
+            <guid isPermaLink="false">59a42652-13df-46c1-9404-83a51845af33</guid>
+            <pubDate>Sat, 09 Jan 2016 10:52:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kraków]]></title>
             <description><![CDATA[<article><h1>Kraków</h1><p>Here begins my second Expatriatic Epistle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1be5a3bdc1799eb93d4096054d5886108e8e2a94.jpg"></article>]]></description>
