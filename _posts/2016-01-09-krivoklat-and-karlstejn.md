@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T10:02:48.816Z'
+datePublished: '2016-01-30T10:02:48.825Z'
 dateModified: '2016-01-30T10:02:45.098Z'
 title: Křivoklát﻿ and Karlštejn
 author: []
